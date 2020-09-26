@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/Joker"
+    android:icon="@drawable/films"
+    android:title="@string/Joker"
+    app:showAsAction="withText" />
+
+    <item android:id="@+id/Glass"
+        android:icon="@drawable/films"
+        android:title="@string/Glass"
+        app:showAsAction="withText" />
+
+    <item
+    android:id="@+id/Sonic"
+    android:icon="@drawable/films"
+    android:title="@string/Sonic"
+    app:showAsAction="withText" />
+
+    <item android:id="@+id/Spiderman"
+        android:icon="@drawable/films"
+        android:title="@string/Spiderman"
+        app:showAsAction="withText" />
+
+    <item
+        android:id="@+id/Cats"
+        android:icon="@drawable/films"
+        android:title="@string/Cats"
+        app:showAsAction="withText" />
+
+    <item android:id="@+id/WonderWoman"
+        android:icon="@drawable/films"
+        android:title="@string/WonderWoman"
+        app:showAsAction="withText" />
+</menu>
